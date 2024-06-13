@@ -1,0 +1,5 @@
+http_port: ":8080"
+websocket_port: ":8081"
+webhooks:
+- "http://localhost:3000/webhook1"
+- "http://localhost:3000/webhook2"
